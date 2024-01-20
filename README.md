@@ -1,5 +1,10 @@
 # Brush of Creation
+
 A relaxing game where you use a virtual paint brush to create a scene in real-time.
+
+## Description
+
+Brush of Creation offers a relaxing gameplay experience, allowing players to become creators and shape their own virtual worlds. With its tranquil atmosphere, intuitive controls, and engaging real-time editing mechanics, Brush of Creation provides a unique platform for players to express their creativity and design their own landscapes. The game aims to deliver a satisfying and enjoyable experience for players on both PC and VR platforms.
 
 ## Features
 
