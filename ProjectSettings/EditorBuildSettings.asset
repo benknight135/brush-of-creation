@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SandboxVR.unity
+    guid: a49d41dcd3143c142b0f79dde4074a36
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e0e7ce91c03939f4880fe0f9f90387c2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e869b646cbeb6be4bb0ff7ba5bc7ce53, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8a72eacafef79844cb5f5d690a5ae2e0, type: 2}
